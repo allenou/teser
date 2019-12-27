@@ -1,5 +1,5 @@
 # reset
-A tiny CSS reset, useful for me.
+A tiny CSS reset,Customized for myself,Continually updated.
 
 ## Usage
 ```html
