@@ -2,18 +2,22 @@ html,
 body {
   margin: 0;
 }
-ul{
-  margin-top: 0;
+
+ul {
+  margin-top   : 0;
   margin-bottom: 0;
 }
+
 ul,
 ol {
   padding-left: 0;
-  list-style: none;
+  list-style  : none;
 }
+
 img {
   vertical-align: middle;
 }
-i{
+
+i {
   font-style: normal;
 }
